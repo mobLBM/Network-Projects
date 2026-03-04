@@ -74,7 +74,7 @@ An external **Public API HTTPS server** is placed in a **DMZ** and protected by 
 
 ---
 
-## Files (suggested repo layout)
+## Files (repo layout)
 ```
 .
 ├─ docs/
